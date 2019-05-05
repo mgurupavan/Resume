@@ -10,7 +10,7 @@ class App extends Component {
         <Link to="/personalinfo">Personal details </Link> |
         <Link to="/educationalinfo"> Educational Info </Link> |
         <Link to="/projectsdone"> Projects Done </Link> |
-        <Link to="/technicalSkills"> Technical Skills</Link>
+        <Link to="/technicalSkills"> Technical Skills</Link> |
       
       </BrowserRouter>
     );
