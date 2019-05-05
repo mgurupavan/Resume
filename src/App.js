@@ -11,7 +11,7 @@ class App extends Component {
         <Link to="/educationalinfo"> Educational Info </Link> |
         <Link to="/projectsdone"> Projects Done </Link> |
         <Link to="/technicalSkills"> Technical Skills</Link> |
-      
+        <Link to="/">/</Link>
       </BrowserRouter>
     );
   }
